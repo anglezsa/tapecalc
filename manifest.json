@@ -1,0 +1,16 @@
+{
+  "name": "TapeCalc — Charges & Bonuses Tape Ledger",
+  "short_name": "TapeCalc",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F2F2F7",
+  "theme_color": "#F2F2F7",
+  "description": "iPhone and iPad calculator app for tracking charges and bonuses with running total and receipt-style tape.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
